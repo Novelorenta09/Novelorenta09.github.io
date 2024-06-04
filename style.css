@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2efff;
+}
+#projects {
+  background-color: #e2efff;
+}
+
+.col-md-4 {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+svg {
+  display: block;
+}
+section {
+  padding-top: 5rem;
+}
