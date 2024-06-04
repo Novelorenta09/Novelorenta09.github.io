@@ -20,12 +20,8 @@ svg {
 }
 section {
   padding-top: 5rem;
-  transition: all 0.3s ease-in-out;
 }
-section:hover {
-  background: linear-gradient(left lightblue to right skyblue);
-  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
-}
+
 section a {
   transition: all 0.3s ease-in-out;
 }
